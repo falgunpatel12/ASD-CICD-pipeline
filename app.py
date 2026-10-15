@@ -9,7 +9,7 @@ def add(a, b):
 
 
 def greet(name):
-    return f"Hello, {name}! Welcome to the DevOps pipeline."
+    return f"Hello, {name}! Student! CI/CD pipeline is working."
 
 
 def login(email, password):
